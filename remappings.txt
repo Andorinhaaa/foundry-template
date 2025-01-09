@@ -1,2 +1,4 @@
 @openzeppelin/contracts/=node_modules/@openzeppelin/contracts/
+@solmate-utils/=lib/solmate/src/utils/
+forge-std-1.9.5/=dependencies/forge-std-1.9.5/
 forge-std/=node_modules/forge-std/
